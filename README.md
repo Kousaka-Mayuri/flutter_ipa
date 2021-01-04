@@ -1,6 +1,6 @@
 # flutter_ipa
 
-A new Flutter application.
+一个APP，可以云存储通讯信息，分组，修改信息等等功能
 
 ## Getting Started
 
